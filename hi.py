@@ -1,2 +1,4 @@
 print("hi")
-print("sa")
+print("sa")\
+for i in range (10):
+	print("abc")
